@@ -7,5 +7,4 @@
 
 Quickly prototype of "Slidey" mobile game
 
-![](/ReadmeSource/preview2.gif)
-
+[![Promo](/ReadmeSource/preview2.gif)](https://youtu.be/OM0k3bkHqFs)
